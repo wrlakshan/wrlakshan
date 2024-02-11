@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Rashmika</h1>
-<h3 align="center">Undergraduate 👨‍🎓 at University of Colombo School of Computing 🏛</h3>
 
 <h3 align="left">Programming Languages and Tools:</h3>
 <p align="left"> 
