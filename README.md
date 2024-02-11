@@ -19,11 +19,7 @@
 <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
 </p>
 
-</p>
-  
-![Rashmika github stats](https://github-readme-stats.vercel.app/api?username=wrlakshan&show_icons=true&theme=github_dark)
 
-![Rashmika Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wrlakshan&layout=compact)
 
 ### Connect Me Through
 
