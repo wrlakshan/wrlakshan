@@ -1,4 +1,7 @@
-<h1 align="center">Hi 👋, I'm Rashmika Lakshan</h1>
+
+![Header](./Header.png)
+
+
 <h3 align="center">A passionate full-stack developer and lifelong learner</h3>
 
 <p align="center">
@@ -16,18 +19,18 @@
 
 
 <div align="center">
-<a href="https://github.com/Prasadkpd/github-readme-stats">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/?username=Prasadkpd&layout=compact&show_icon=true&theme=github_dark&count_private=true&include_all_commits=true" alt="tienhuynh-tn-stats"/>
+<a href="https://github.com/wrlakshan/github-readme-stats">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/?username=wrlakshan&layout=compact&show_icon=true&theme=github_dark&count_private=true&include_all_commits=true" alt="tienhuynh-tn-stats"/>
 </a>
-<a href="https://github.com/Prasadkpd/github-readme-stats">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prasadkpd&show_icons=true&layout=compact&langs_count=10&theme=github_dark&include_all_commits=true&count_private=true" alt="tienhuynh-tn-langs"/>
+<a href="https://github.com/wrlakshan/github-readme-stats">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wrlakshan&show_icons=true&layout=compact&langs_count=10&theme=github_dark&include_all_commits=true&count_private=true" alt="tienhuynh-tn-langs"/>
 
 </a>
 </div>
 
 
 <div align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=Prasadkpd&theme=algolia&background=0d1117&hide_border=true&include_all_commits=true&count_private=true" />
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=wrlakshan&theme=algolia&background=0d1117&hide_border=true&include_all_commits=true&count_private=true" />
 </div>
 <br/>
 
@@ -57,3 +60,6 @@
 [![Windows](https://img.shields.io/badge/Windows-%23555555?style=flat&logo=windows&logoColor=white)](https://www.microsoft.com/en-us/windows)
 
 </div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=W Rashmika Lakshan&fontSize=20&fontColor=fff&animation=twinkling&fontAlignY=72"/>
+ 
