@@ -15,28 +15,45 @@
   <!-- Add any new technologies you're learning or interested in -->
 
 
-### 🌱 I’m currently learning ...
+<div align="center">
+<a href="https://github.com/Prasadkpd/github-readme-stats">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/?username=Prasadkpd&layout=compact&show_icon=true&theme=github_dark&count_private=true&include_all_commits=true" alt="tienhuynh-tn-stats"/>
+</a>
+<a href="https://github.com/Prasadkpd/github-readme-stats">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prasadkpd&show_icons=true&layout=compact&langs_count=10&theme=github_dark&include_all_commits=true&count_private=true" alt="tienhuynh-tn-langs"/>
 
-- **Advanced React Patterns**
-- **Cloud Computing with AWS/Azure**
-- **Machine Learning with Python**
-- **Containerization with Docker and Kubernetes**
-- **Blockchain Development**
+</a>
+</div>
 
-### 💼 Where I'm heading ...
 
-- **Contributing to Open Source Projects**
-- **Developing Full-Stack Applications with Microservices Architecture**
-- **Exploring the possibilities of AI and ML in Web Development**
-- **Advancing my knowledge in Cybersecurity Practices**
+<div align="center">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=Prasadkpd&theme=algolia&background=0d1117&hide_border=true&include_all_commits=true&count_private=true" />
+</div>
+<br/>
+
+
+
+
+<div align="center">
 
 ### 📫 How to reach me
 
-- **Email:** [wrlakshan@gmail.com](mailto:wrlakshan@gmail.com)
-- **LinkedIn:** [Rashmika Lakshan](https://www.linkedin.com/in/wrlakshan/)
+[![Gmail](https://img.shields.io/badge/-gmail-%23D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:wrlakshan@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/wrlakshan/)
+[![Medium](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@wrlakshan)
+[![DEV.TO](https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/wrlakshan)
+[![twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/wrlakshan)
+[![Hackerrank](https://img.shields.io/badge/hackerrank-%230A0A0A.svg?&style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/wrlakshan)
 
-### 🛠 IDEs
+### 🛠 Familiar Operating Systems & Tools
+
 
 [![VS Code](https://img.shields.io/badge/IDE-VSCode-%23007ACC?style=flat&logo=Visual-studio-code)](https://code.visualstudio.com/)
 [![IntelliJ IDEA](https://img.shields.io/badge/IDE-IntelliJ%20IDEA-%23007ACC?style=flat&logo=JetBrains)](https://www.jetbrains.com/idea/)
 [![Web Storm](https://img.shields.io/badge/IDE-WebStorm-%23007ACC?style=flat&logo=JetBrains)](https://www.jetbrains.com/webstorm/)
+[![Php Storm](https://img.shields.io/badge/IDE-PhpStorm-%23007ACC?style=flat&logo=JetBrains)](https://www.jetbrains.com/phpstorm/)
+
+[![Ubuntu](https://img.shields.io/badge/Ubuntu-%23555555?style=flat&logo=ubuntu&logoColor=white)](https://ubuntu.com/)
+[![Windows](https://img.shields.io/badge/Windows-%23555555?style=flat&logo=windows&logoColor=white)](https://www.microsoft.com/en-us/windows)
+
+</div>
