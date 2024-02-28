@@ -61,5 +61,5 @@
 
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Rashmika_Lakshan&fontSize=20&fontColor=fff&animation=twinkling&fontAlignY=72"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=W_Rashmika_Lakshan&fontSize=20&fontColor=fff&animation=twinkling&fontAlignY=72"/>
  
